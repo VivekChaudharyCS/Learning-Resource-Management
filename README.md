@@ -34,7 +34,7 @@ Clone the repository
 
 ```console
 git clone https://github.com/m-deb-16/ClassLink.git
-cd ClassLink
+cd Learning-Resource-Management
 ```
 
 Install dependencies for Backend (server)
