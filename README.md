@@ -33,7 +33,7 @@ Learning-Resource-Management is a MERN (MongoDB, Express, React, Node.js) based 
 Clone the repository
 
 ```console
-git clone https://github.com/m-deb-16/ClassLink.git
+git clone https://github.com/VivekChaudharyCS/Learning-Resource-Management.git
 cd Learning-Resource-Management
 ```
 
