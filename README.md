@@ -33,7 +33,7 @@ ClassLink is a MERN (MongoDB, Express, React, Node.js) based educational resourc
 Clone the repository
 
 ```console
-git clone git clone https://github.com/m-deb-16/ClassLink.git
+git clone https://github.com/m-deb-16/ClassLink.git
 cd ClassLink
 ```
 
