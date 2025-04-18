@@ -1,6 +1,6 @@
-# About ClassLink
+# About Learning-Resource-Management
 
-ClassLink is a MERN (MongoDB, Express, React, Node.js) based educational resource and event organizer application. It allows users to create accounts, upload educational resources, and view/list events along with a forums feature for doubts. The app supports JWT authentication.
+Learning-Resource-Management is a MERN (MongoDB, Express, React, Node.js) based educational resource and event organizer application. It allows users to create accounts, upload educational resources, and view/list events along with a forums feature for doubts. The app supports JWT authentication.
 
 ## Features
 
